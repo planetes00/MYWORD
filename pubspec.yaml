@@ -1,0 +1,69 @@
+name: Shrine
+description: Learn how to use Material for structure and layout.
+
+environment:
+  sdk: ">=1.12.13+hotfix.4<3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.15.6
+  firebase_auth: ^0.15.0+1
+  google_sign_in: ^4.0.14
+  cloud_firestore: ^0.13.4+2
+  flutter_form_builder: ^3.7.2
+  get_it: ^1.0.3+2
+  provider: ^3.0.0+1
+  image_picker: ^0.6.6+1
+
+
+  cupertino_icons: ^0.1.0
+  shrine_images: 1.1.1
+  http: ^0.12.0+2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/diamond.png
+    - images/0-0.jpg
+    - images/1-0.jpg
+    - images/2-0.jpg
+    - images/3-0.jpg
+    - images/4-0.jpg
+    - images/5-0.jpg
+    - images/6-0.jpg
+    - images/7-0.jpg
+    - images/8-0.jpg
+    - images/9-0.jpg
+    - images/10-0.jpg
+    - images/11-0.jpg
+    - images/12-0.jpg
+    - images/13-0.jpg
+    - images/14-0.jpg
+    - images/15-0.jpg
+    - images/16-0.jpg
+    - images/17-0.jpg
+    - images/18-0.jpg
+    - images/19-0.jpg
+    - images/20-0.jpg
+    - images/21-0.jpg
+    - images/22-0.jpg
+    - images/23-0.jpg
+    - images/24-0.jpg
+    - images/25-0.jpg
+    - images/26-0.jpg
+    - images/27-0.jpg
+    - images/28-0.jpg
+    - images/29-0.jpg
+    - images/30-0.jpg
+    - images/31-0.jpg
+    - images/32-0.jpg
+    - images/33-0.jpg
+    - images/34-0.jpg
+    - images/35-0.jpg
+    - images/36-0.jpg
+    - images/37-0.jpg
